@@ -1,5 +1,5 @@
 # robots.txt for TheCipheryn™
-# Copyright © 2026 TheCipheryn™. All rights reserved.
+# © 2026 TheCipheryn™. All rights reserved.
 
 User-agent: *
 Disallow: /
